@@ -1,6 +1,3 @@
-Curriculum Vitae
-
-
 ### GENERAL INFORMATION
 
 Name: Gang Xin  
