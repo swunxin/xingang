@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Curriculum Vitae
 
 You can use the [editor on GitHub](https://github.com/swunxin/xingang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
