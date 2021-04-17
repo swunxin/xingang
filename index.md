@@ -6,18 +6,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### GENERAL INFORMATION
 
-```INFORMATIONS
 Name: Gang Xin                   
 E-mail：xingang17@mails.ucas.edu.cn
 ORICD: 0000-0003-2175-6651
 Github: https://swunxin.github.io/Curriculum-Vitae/
-```
+
 ### PROFESSIONAL SKILLS 
 
-```SKILLS
 Language Skills: German, fluent speaker ( DSH-2); English, good knowledge  ( TOEFL, note 580, CET-4,CET-6)            
 Computer Skills: C for (DSP)，Verilog HDL, Matlab
-```
+
 ### EDUCATION
 
 2002.10-2006.07: University of Chongqing, Electrical And Automation, (Bachelor)            
@@ -28,7 +26,6 @@ Computer Skills: C for (DSP)，Verilog HDL, Matlab
 
 ### PUBLISHED PAPERS
 
-```PAPERS
 1.Xin, G., Wang, P., & Jiao, Y. (2021). Noise‐enhanced quantum annealing approach and its application in plug‐in hybrid electric vehicle charging optimization. Electronics Letters.           
 2.Xin, G., Wang, P. (2021). Exploring superposition state in multi-scale quantum harmonic
 oscillator algorithm. Applied soft computing.
@@ -36,10 +33,10 @@ oscillator algorithm. Applied soft computing.
 4.P. Wang, G. Xin, Y. Jiao, Quantum dynamics of optimization problems, 125
 2020, arXiv preprint arXiv:2012.03312.
 5.P. Wang, G. Xin, Quantum Theory of Optimization Problem [J/OL].ACTA AUTOMATICA SINICA:1-10[2021-03-26]. https://doi.org/10.16383/j.aas.c190761.
-```
+
 ### EXPERIENCE/INTERNSHIP 
 
-```PAPERS
+
 1.2009.4-2009.11
 Production of silicon Master in Micro-and Nano-contact printing and execute the Experiment to Polymer-Pattern of the Structure  Dresden Germany
 Custodian: IHM TU-Dresden  Dr.-Ing. karola.richter  Dipl.-Ing. He Jian
@@ -55,7 +52,7 @@ Custodian: GeSiM mbH Dr. -Ing. Steffen Howitz, IHM TU-Dresden Dip.-Ing. Jian He
 Experiments on Semiconductor interface to optimize the n type organic field-effect transistor   Dresden, Germany
 Custodian: IHM TU-Dresden Dr. -Ing.M. Plötner
 (Test the different substrate of the SAM layer, optimize the electrical characters of the transistor. The results of those research can been used for the 300nm print-organic transistor project in the institute. ) 
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
