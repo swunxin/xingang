@@ -1,14 +1,14 @@
 Curriculum Vitae
 
-You can use the [editor on GitHub](https://github.com/swunxin/xingang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### GENERAL INFORMATION
 
-Name: Gang Xin                   
+Name: Gang Xin  
+
 E-mail：xingang17@mails.ucas.edu.cn
+
 ORICD: 0000-0003-2175-6651
+
 Github: https://swunxin.github.io/Curriculum-Vitae/
 
 ### PROFESSIONAL SKILLS 
@@ -69,5 +69,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Contact
 
 Affiliation 1:Chengdu Institution of Computer Application, Chinese Academy of Sciences, Chengdu, 610041, China
+
 Affiliation 2:University of Chinese Academy of Sciences, Beijing 100049, China
+
 Postal address: No.9, section 4, Renmin South Road, Chengdu, Sichuan, China, postcode: 610041
