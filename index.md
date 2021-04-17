@@ -40,14 +40,14 @@ oscillator algorithm. Applied soft computing.  https://doi.org/10.1016/j.asoc.20
 ### EXPERIENCE/INTERNSHIP 
 
 
-1.2009.4-2009.11
+# 2009.4-2009.11
 
 Production of silicon Master in Micro-and Nano-contact printing and execute the Experiment to Polymer-Pattern of the Structure  Dresden Germany
 Custodian: IHM TU-Dresden  Dr.-Ing. karola.richter  Dipl.-Ing. He Jian
 
 (Looking for and optimizing the RIE-Etching Process, after that produce of the Polymer-Pattern with the Si-Master, Controlling the dimension of the Si-Master mit REM and make the stress tolerance Test for those Polymer-Pattern. Those results had been used for the research in Micro-contact-printing technology and also used to produce the different stemper for the company.) 
 
-2.2010.4-2010.8
+# 2010.4-2010.8
 
 Internship : Production, Analysis and Adjusting of Micro- und nanostructure for μ-Contact-Printing und Nano-Imprint-Lithography with ASE, AFM, und REM Dresden, Germany
 
@@ -55,7 +55,7 @@ Custodian: GeSiM mbH Dr. -Ing. Steffen Howitz, IHM TU-Dresden Dip.-Ing. Jian He
 
 (Producing the orders with RIE, ASE etching. Developing a new Etching-Process for hexagon structure，Prepare the Pattern for Micro- und Nano-Contact-Printing experiments.) 
 
-3.2010.11-2011.9
+# 2010.11-2011.9
 
 Experiments on Semiconductor interface to optimize the n type organic field-effect transistor   Dresden, Germany
 
