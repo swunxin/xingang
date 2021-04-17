@@ -20,12 +20,11 @@ Computer Skills: C for (DSP)，Verilog HDL, Matlab
 ```
 ### EDUCATION
 
-```EDUCATIONS
 2002.10-2006.07: University of Chongqing, Electrical And Automation, (Bachelor)            
 2006.10-2007.09: TUDIAS Sprachschule Dresden Germany, Deutsch
 2007.10-2011.09: Dresden University of Technology, Micro electrical Engineering, German Diploma, (Master)
 2017.09-2022.07: University of Chinese Academy of Sciences, Computer software and theory, (Doctor)
-```
+
 
 ### PUBLISHED PAPERS
 
