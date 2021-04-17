@@ -26,12 +26,12 @@ Computer Skills: C for (DSP)，Verilog HDL, Matlab
 
 ### PUBLISHED PAPERS
 
-1.Xin, G., Wang, P., & Jiao, Y. (2021). Noise‐enhanced quantum annealing approach and its application in plug‐in hybrid electric vehicle charging optimization. Electronics Letters. 
+1.Xin, G., Wang, P., & Jiao, Y. (2021). Noise‐enhanced quantum annealing approach and its application in plug‐in hybrid electric vehicle charging optimization. Electronics Letters. http://dx.doi.org/10.1049/ell2.12112
          
 2.Xin, G., Wang, P. (2021). Exploring superposition state in multi-scale quantum harmonic
-oscillator algorithm. Applied soft computing.
+oscillator algorithm. Applied soft computing.  https://doi.org/10.1016/j.asoc.2021.107398.
 
-3.Mu, L., Wang, P., & Xin, G. (2020). Quantum-inspired algorithm with fitness landscape approximation in reduced dimensional spaces for numerical function optimization. Information Sciences, 527, 253-278.
+3.Mu, L., Wang, P., & Xin, G. (2020). Quantum-inspired algorithm with fitness landscape approximation in reduced dimensional spaces for numerical function optimization. Information Sciences, 527, 253-278. https://doi.org/10.1016/j.ins.2020.03.035
 
 4.P. Wang, G. Xin, Y. Jiao, Quantum dynamics of optimization problems, 125 2020, arXiv preprint arXiv:2012.03312.
 
