@@ -10,7 +10,7 @@ Github: https://swunxin.github.io/Curriculum-Vitae/
 
 ### PROFESSIONAL SKILLS 
 
-Language Skills: German, fluent speaker ( DSH-2); English, good knowledge  ( TOEFL, note 580, CET-4,CET-6)            
+Language Skills: German, fluent speaker ( DSH-2); English, good knowledge  ( TOEFL, note 580)            
 Computer Skills: C for (DSP)，Verilog HDL, Matlab
 
 ### EDUCATION
@@ -63,8 +63,6 @@ Custodian: IHM TU-Dresden Dr. -Ing.M. Plötner
 
 (Test the different substrate of the SAM layer, optimize the electrical characters of the transistor. The results of those research can been used for the 300nm print-organic transistor project in the institute. ) 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Contact
 
