@@ -26,16 +26,21 @@ Computer Skills: C for (DSP)，Verilog HDL, Matlab
 
 ### PUBLISHED PAPERS
 
-1.Xin, G., Wang, P., & Jiao, Y. (2021). Noise‐enhanced quantum annealing approach and its application in plug‐in hybrid electric vehicle charging optimization. Electronics Letters. http://dx.doi.org/10.1049/ell2.12112
+1.Xin G, Wang P, Jiao Y. Noise‐enhanced quantum annealing approach and its application in plug‐in hybrid electric vehicle charging optimization[J]. Electronics Letters, 2021, 57(8): 414-316. http://dx.doi.org/10.1049/ell2.12112
          
-2.Xin, G., Wang, P. (2021). Exploring superposition state in multi-scale quantum harmonic
-oscillator algorithm. Applied soft computing.  https://doi.org/10.1016/j.asoc.2021.107398.
+2.Xin G, Wang P. Exploring superposition state in multi-scale quantum harmonic oscillator algorithm[J]. Applied Soft Computing, 2021, 107: 107398.  https://doi.org/10.1016/j.asoc.2021.107398.
 
-3.Mu, L., Wang, P., & Xin, G. (2020). Quantum-inspired algorithm with fitness landscape approximation in reduced dimensional spaces for numerical function optimization. Information Sciences, 527, 253-278. https://doi.org/10.1016/j.ins.2020.03.035
+3.Xin G, Wang P, Jiao Y. Multiscale quantum harmonic oscillator optimization algorithm with multiple quantum perturbations for numerical optimization[J]. Expert Systems with Applications, 2021, 185: 115615. https://doi.org/10.1016/j.eswa.2021.115615
 
 4.P. Wang, G. Xin, Y. Jiao, Quantum dynamics of optimization problems, 125 2020, arXiv preprint arXiv:2012.03312.
 
-5.P. Wang, G. Xin, Quantum Theory of Optimization Problem [J/OL].ACTA AUTOMATICA SINICA:1-10[2021-03-26]. https://doi.org/10.16383/j.aas.c190761.
+5.Mu, L., Wang, P., & Xin, G. (2020). Quantum-inspired algorithm with fitness landscape approximation in reduced dimensional spaces for numerical function optimization. Information Sciences, 527, 253-278. https://doi.org/10.1016/j.ins.2020.03.035
+
+6.P. Wang, G. Xin, Quantum Theory of Optimization Problem [J/OL].ACTA AUTOMATICA SINICA:1-10[2021-03-26]. https://doi.org/10.16383/j.aas.c190761.
+
+7. Wang P, Li B, Jin J, et al. Multi-scale quantum harmonic oscillator algorithm with individual stabilization strategy[C]//International Conference on Swarm Intelligence. Springer, Cham, 2018: 624-633. 
+
+
 
 ### EXPERIENCE/INTERNSHIP 
 
