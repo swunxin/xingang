@@ -38,7 +38,8 @@ Computer Skills: C for (DSP)，Verilog HDL, Matlab
 
 6.P. Wang, G. Xin, Quantum Theory of Optimization Problem [J/OL].ACTA AUTOMATICA SINICA:1-10[2021-03-26]. https://doi.org/10.16383/j.aas.c190761.
 
-8. Wang P, Li B, Jin J, et al. Multi-scale quantum harmonic oscillator algorithm with individual stabilization strategy[C] International Conference on Swarm Intelligence. Springer, Cham, 2018: 624-633. 
+8.Wang P, Li B, Jin J, et al. Multi-scale quantum harmonic oscillator algorithm with individual stabilization strategy[C] International Conference on Swarm Intelligence. Springer, Cham, 2018: 624-633.
+
 
 ### EXPERIENCE/INTERNSHIP 
 
