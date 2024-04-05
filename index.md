@@ -8,10 +8,6 @@ ORICD: 0000-0003-2175-6651
 
 Github: https://swunxin.github.io/Curriculum-Vitae/
 
-### PROFESSIONAL SKILLS 
-
-Language Skills: German, fluent speaker ( DSH-2); English, good knowledge  ( TOEFL, note 580)            
-Computer Skills: C for (DSP)，Verilog HDL, Matlab
 
 ### EDUCATION
 
@@ -67,11 +63,3 @@ Custodian: IHM TU-Dresden Dr. -Ing.M. Plötner
 
 (Test the different substrate of the SAM layer, optimize the electrical characters of the transistor. The results of those research can been used for the 300nm print-organic transistor project in the institute. ) 
 
-
-### Contact
-
-Affiliation 1:Chengdu Institution of Computer Application, Chinese Academy of Sciences, Chengdu, 610041, China
-
-Affiliation 2:University of Chinese Academy of Sciences, Beijing 100049, China
-
-Postal address: No.9, section 4, Renmin South Road, Chengdu, Sichuan, China, postcode: 610041
